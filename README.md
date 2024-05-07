@@ -1,4 +1,8 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+# Welcome to My GitHub Profile!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saroca-f&theme=transparent&show_icons=true&ring_color=F30808&hide_border=true&include_all_commits=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=saroca-f&layout=donut&hide_border=true&ring_color=33FF61&langs_count=6&hide=Batchfile,GLSL)|
+|-|-|
+
 <!--
 **saroca-f/saroca-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
